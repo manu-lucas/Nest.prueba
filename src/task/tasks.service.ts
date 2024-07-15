@@ -17,8 +17,6 @@ export class TasksService {
 
     private tasks = []
 
-
-
     getTasks(){
         return this.tasks
 

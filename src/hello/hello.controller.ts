@@ -25,8 +25,6 @@ export class HelloController {
         return num + 14
     }
 
-
-
 }
 
 
